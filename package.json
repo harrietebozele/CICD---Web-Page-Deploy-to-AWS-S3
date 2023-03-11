@@ -11,7 +11,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "jest",
-    "start":"node index.js"
+    "start":"node index.js",
+    "build":"npm run build"
   },
   "author": "jrw@mit.edu",
   "license": "MIT"
